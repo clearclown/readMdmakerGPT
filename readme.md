@@ -17,15 +17,14 @@
 
 | 技術        | バージョン |
 |-------------|-------------|
-| Python      | 3.9         |
-| Django      | 3.2         |
-| その他の技術| x.x         |
+| markdown      | なんでも         |
+
 
 ### 使用方法
 
 1. リポジトリをクローンする
    ```sh
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/clearclown/readMdmakerGPT.git
    ```
 
 2. 必要なパッケージをインストールする
@@ -40,7 +39,7 @@
 
 ### エラー報告
 
-エラーが発生した場合は、[こちら](https://github.com/your-repo/issues)に報告すること。
+エラーが発生した場合は、[こちら](https://github.com/clearclown/readMdmakerGPT/issues)に報告すること。
 
 ### プロフィール
 
@@ -60,15 +59,14 @@ This repository is designed to achieve XYZ. Using ABC, it allows you to do DEF. 
 
 | Technology  | Version |
 |-------------|---------|
-| Python      | 3.9     |
-| Django      | 3.2     |
-| Other tech  | x.x     |
+| markdown      | whatever     |
+
 
 ### Usage
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/clearclown/readMdmakerGPT.git
    ```
 2. Install the required packages
    ```sh
@@ -81,7 +79,7 @@ This repository is designed to achieve XYZ. Using ABC, it allows you to do DEF. 
 
 ### Reporting Issues
 
-If any errors occur, please report them [here](https://github.com/your-repo/issues).
+If any errors occur, please report them [here](https://github.com/clearclown/readMdmakerGPT/issues).
 
 ### Profile
 
